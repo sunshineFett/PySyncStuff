@@ -9,6 +9,7 @@ def addMyName(num1, num2):
 # Hello World in Python
 print "Hello World!"
 
+#Added a new comment
 
 num1 = "S"
 num2 = "W"
