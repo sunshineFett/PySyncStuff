@@ -9,7 +9,6 @@ def addMyName(num1, num2):
 # Hello World in Python
 print "Hello World!"
 
-print "My first Python program!!"
 
 num1 = "S"
 num2 = "W"
