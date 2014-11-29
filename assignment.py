@@ -14,6 +14,12 @@ print "Hello World!"
 num1 = "S"
 num2 = "W"
       
-addMyName(num1, num2)    
+addMyName(num1, num2)   
+
+counter = 0
+
+while counter < 10:
+    print "Loop number: %d" % counter
+    counter += 1
     
     
